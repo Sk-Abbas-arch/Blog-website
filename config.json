@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+        "locak_server": "True",
+        "local_uri": "mysql://root:@localhost/thecodingthunder",
+        "prod_uri": "mysql://root:@localhost/thecodingthunder",
+        "fb_url": "https://facebook.com/thecodingthunder",
+        "tw_url": "https://twitter.com/thecodingthunder",
+        "gh_url": "https://github.com/thecodingthunder",
+        "blog_name": "Coding Thunder",
+        "blog_thename": "The Coding Thunder",
+        "tag_line": "A Blog Liked By The Programmers",
+        "gmail-user": "skabbasuddin404@gmail.com",
+        "gmail-password": "yurlvjhacrgtaawh",
+        "about_text": "Hii.. My name is sk and I create this webside",
+        "no_of_posts": "5",
+        "login_image": "login.svg",
+        "admin_user":"sk",
+        "admin_password": "sk404"
+
+    }
+}
