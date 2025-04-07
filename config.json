@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/thecodingthunder",
+    "prod_uri":"mysql://root:@localhost/thecodingthunder",
+    "fb_url":"https://facebook.com/thecodingthunder",
+    "tw_url":"https://twitter.com/thecodingthunder",
+    "gh_url": "https://github.com/thecodingthunder",
+    "blog_name": "Coding Thunder",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"skabbasuddin404@gmail.com",
+    "gmail-password":"rjjx andk wuza tobs",
+    "about_text": "Hi my name is Sk Abbas and I create this webside.",
+    "no_of_posts": 5,
+    "login_image":"login.svg",
+    "admin_user":"abbas",
+    "admin_password": "sk404",
+    "upload_location":"C:\\Users\\skabb\\OneDrive\\Desktop\\class\\Blog-Website\\static"
+
+
+  }
+
+}
